@@ -1,4 +1,4 @@
-# Eco cosmetics landing page
+# Eco-cosmetics landing page
 
 - Stack: HTML5, CSS3, SASS;
 - Fully responsive page for different screen sizes (smartphones, tablets, laptops, high screens);
