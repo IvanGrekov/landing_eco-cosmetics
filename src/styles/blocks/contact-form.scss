@@ -22,6 +22,7 @@
     &--textarea {
       margin-bottom: 45px;
       resize: none;
+      height: max-content;
     }
 
     &::placeholder {
